@@ -47,7 +47,6 @@
         "reddit": "https://www.reddit.com/r/0xPolygon/",
         "community": "https://polygon.technology/community",
         "coinmarketcap_community": "https://coinmarketcap.com/community/profile/Polygon/",
-        "twitter_hashtag": "https://twitter.com/hashtag/Ethereum"
     }, "data_aggregator": [
         {
             "name": "CoinMarketCap",
